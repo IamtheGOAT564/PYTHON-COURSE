@@ -1,3 +1,4 @@
+#Title
 print("Daily Routine")
 print("5:00 AM: Wake up and brush my teeth")
 print("5:30-5:45 AM: Eat my breakfast")
@@ -19,3 +20,4 @@ print("5:30-7:00 PM: Chill")
 print("7:00-8:00 PM: Music Class")
 print("8:00-8:15 PM: Eat Dinner")
 print("8:30 PM: Go to Sleep")
+#Day restarts
